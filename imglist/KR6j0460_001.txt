@@ -1,0 +1,5 @@
+001-0169c00	T 001-0169c	buddhist/T-taisho/T21/01/T21-0169.png
+001-0170a00	T 001-0170a	buddhist/T-taisho/T21/01/T21-0170.png
+001-0170b00	T 001-0170b	buddhist/T-taisho/T21/01/T21-0170.png
+001-0170c00	T 001-0170c	buddhist/T-taisho/T21/01/T21-0170.png
+001-0171a00	T 001-0171a	buddhist/T-taisho/T21/01/T21-0171.png
